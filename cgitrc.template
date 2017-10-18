@@ -63,4 +63,5 @@ virtual-root=$CGIT_VROOT
 
 section-from-path=$CGIT_SECTION_FROM_STARTPATH
 
-scan-path=/srv/git/
+project-list=/srv/git/projects.list
+scan-path=/srv/git/repositories
